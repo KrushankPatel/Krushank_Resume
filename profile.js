@@ -8,7 +8,7 @@ const textLoad = () => {
   }, 0);
 
   setTimeout(() => {
-    text.textContent = "Intermediate Coder.";
+    text.textContent = "Proffesional Coder.";
   }, 4000);
 
   setTimeout(() => {
